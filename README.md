@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./frontend/src/app/opengraph-image.jpg" alt="Fenêtre du salon de la maison de Tahíche, ouverte sur la coulée de lave" width="100%" />
+<img src="./docs/apercu.gif" alt="Aperçu du site : le preloader en pile de cartes, puis la page d'accueil de la Fondation César Manrique" width="100%" />
 
 # Fondation César Manrique
 
