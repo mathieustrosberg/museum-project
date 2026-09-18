@@ -1,0 +1,32 @@
+{
+  "name": "Fondation César Manrique",
+  "address": "Taro de Tahíche, C/ Jorge Luis Borges 16, 35507 Tahíche, Lanzarote",
+  "addressLink": "https://maps.google.com/?q=Fundaci%C3%B3n+C%C3%A9sar+Manrique%2C+Taro+de+Tah%C3%ADche%2C+C%2F+Jorge+Luis+Borges+16%2C+35507+Tah%C3%ADche",
+  "email": "fcm@fcmanrique.org",
+  "phone": "+34 928 84 31 38",
+  "timeZone": "Atlantic/Canary",
+  "hours": "10:00–17:30",
+  "openWeekdays": [1, 2, 3, 4, 5, 6, 0],
+  "weeksAhead": 8,
+  "closedDates": ["2027-01-01"],
+  "maxPerType": 10,
+  "currency": "€",
+  "admission": [
+    {
+      "id": "full",
+      "label": "Plein tarif",
+      "price": 8
+    },
+    {
+      "id": "reduced",
+      "label": "Tarif réduit",
+      "price": 5,
+      "note": "Étudiants, moins de 26 ans, demandeurs d’emploi"
+    },
+    {
+      "id": "under18",
+      "label": "-18 ans",
+      "price": 0
+    }
+  ]
+}

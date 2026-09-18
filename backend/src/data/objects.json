@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "slug": "taro-de-tahiche",
+    "title": "Taro de Tahíche",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "space",
+    "year": 1968,
+    "type": "Maison-atelier",
+    "medium": "Lave, chaux, bois, verre",
+    "dimensions": "1 800 m² habitables sur deux niveaux, 1 000 m² de terrasses et jardins",
+    "sheets": 2,
+    "inventory": "FCM E.001",
+    "color": true,
+    "description": "Maison que César Manrique se bâtit à partir de 1968 sur la coulée de lave des éruptions de 1730–1736. En haut, l'architecture traditionnelle de l'île ; en dessous, cinq bulles volcaniques de huit mètres de diamètre reliées par des tunnels creusés dans la lave. Il y vécut vingt ans, jusqu'en 1988 ; la maison est le siège de la Fondation depuis 1992. Photographies : Mihai Vlasceanu, Pexels.",
+    "location": "Tahíche, Teguise",
+    "images": [
+      "/images/collection/taro-de-tahiche-1.jpg",
+      "/images/collection/taro-de-tahiche-2.jpg"
+    ],
+    "similar": [
+      "casa-museo-del-campesino",
+      "jameos-del-agua",
+      "lagomar",
+      "lago-martianez"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "jameos-del-agua",
+    "title": "Jameos del Agua",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "space",
+    "year": 1966,
+    "type": "Jameo",
+    "medium": "Lave, chaux, eau de mer, palmiers",
+    "sheets": 4,
+    "inventory": "FCM E.002",
+    "color": true,
+    "description": "Premier Centre d'art, de culture et de tourisme de Lanzarote, ouvert en 1966 et achevé en 1977, aménagé avec Jesús Soto et de nombreux artisans dans une section du tunnel volcanique de La Corona. Un lac intérieur où l'eau de mer s'infiltre, abri d'un crabe aveugle endémique, une piscine blanche au fond du Jameo Grande, un auditorium naturel et la Casa de los Volcanes. Photographies : alleksana, Mihai Vlasceanu et Jan van der Wolf, Pexels.",
+    "location": "Haría, tunnel volcanique de La Corona",
+    "images": [
+      "/images/collection/jameos-del-agua-1.jpg",
+      "/images/collection/jameos-del-agua-2.jpg",
+      "/images/collection/jameos-del-agua-3.jpg",
+      "/images/collection/jameos-del-agua-4.jpg"
+    ],
+    "similar": [
+      "taro-de-tahiche",
+      "lago-martianez",
+      "casa-museo-del-campesino",
+      "lagomar"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "jardin-de-cactus",
+    "title": "Jardín de Cactus",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "space",
+    "year": 1990,
+    "type": "Jardin",
+    "medium": "Pierre volcanique, rofe, basalte",
+    "sheets": 1,
+    "inventory": "FCM E.003",
+    "color": true,
+    "description": "Dernière œuvre de César Manrique, aménagée dans une ancienne carrière de rofe à Guatiza. Le premier cactus y fut planté par Manrique et son équipe le 18 janvier 1989 ; le jardin réunit des milliers de spécimens de près de 500 espèces entre des murs de pierre volcanique et des monolithes de basalte laissés par l'extraction. Au sommet, un moulin à gofio, l'un des derniers de l'île. Photographie : En Turista, Pexels.",
+    "location": "Guatiza, Teguise",
+    "images": ["/images/collection/jardin-de-cactus-1.jpg"],
+    "similar": [
+      "lagomar",
+      "casa-museo-del-campesino",
+      "lago-martianez",
+      "taro-de-tahiche"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "casa-museo-del-campesino",
+    "title": "Casa-Museo del Campesino",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "space",
+    "year": 1968,
+    "type": "Musée",
+    "medium": "Chaux blanche, bois vert, pierre",
+    "sheets": 1,
+    "inventory": "FCM E.004",
+    "color": true,
+    "description": "Ensemble commencé en 1968 en hommage à ceux qui ont appris à habiter et cultiver l'île. Murs blancs et menuiseries vertes, patios, citernes, aires de battage et pressoirs réunis depuis plusieurs régions de Lanzarote ; la sculpture Fecundidad, sur la Peña de Tajaste, relie l'ensemble au paysage agricole. Photographie : Javier Balseiro, Pexels.",
+    "location": "Mozaga, San Bartolomé",
+    "images": ["/images/collection/casa-museo-del-campesino-1.jpg"],
+    "similar": [
+      "taro-de-tahiche",
+      "jameos-del-agua",
+      "lagomar",
+      "jardin-de-cactus"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "lago-martianez",
+    "title": "Lago Martiánez",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "space",
+    "year": 1977,
+    "type": "Piscines",
+    "medium": "Béton blanc, lave, eau de mer",
+    "dimensions": "Lac de 27 000 m³ d'eau de mer, ensemble d'environ 33 000 m²",
+    "sheets": 1,
+    "inventory": "FCM E.005",
+    "color": true,
+    "description": "Ensemble de piscines d'eau de mer conçu par César Manrique sur le front de mer de Puerto de la Cruz, ouvert le 30 avril 1977 après deux ans de travaux. Un grand lac entouré de quatre piscines pour adultes et trois bassins pour enfants, avec des îlots, des sculptures et des solariums entre lave et béton blanc. Photographie : Atlantic Ambience, Pexels.",
+    "location": "Puerto de la Cruz, Tenerife",
+    "images": ["/images/collection/lago-martianez-1.jpg"],
+    "similar": [
+      "jameos-del-agua",
+      "taro-de-tahiche",
+      "lagomar",
+      "casa-museo-del-campesino"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "lagomar",
+    "title": "LagOmar",
+    "artist": "Jesús Soto et César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "space",
+    "year": 1972,
+    "type": "Maison",
+    "medium": "Tuf volcanique, basalte, chaux",
+    "sheets": 5,
+    "inventory": "FCM E.006",
+    "color": true,
+    "description": "Maison creusée dans une ancienne carrière de tuf volcanique à Nazaret, au début des années 1970, par Jesús Soto, collaborateur de Manrique, avec César Manrique, pour le promoteur Sam Benady. Pièces et tunnels épousent les fronts de taille, sous les formes blanches à la chaux, autour d'une piscine ; un couloir se franchit sur des planches posées sur l'eau. Encore en chantier en 1972, elle aurait été perdue au bridge par l'acteur Omar Sharif, en tournage sur l'île, d'où son nom. Aujourd'hui musée, la maison n'appartient pas à la Fondation. Photographies : alleksana, Mihai Vlasceanu, Mathias Reding et Javier Balseiro, Pexels.",
+    "location": "Nazaret, Teguise",
+    "images": [
+      "/images/collection/lagomar-1.jpg",
+      "/images/collection/lagomar-2.jpg",
+      "/images/collection/lagomar-3.jpg",
+      "/images/collection/lagomar-4.jpg",
+      "/images/collection/lagomar-5.jpg"
+    ],
+    "similar": [
+      "casa-museo-del-campesino",
+      "taro-de-tahiche",
+      "jameos-del-agua",
+      "jardin-de-cactus"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "nature-morte",
+    "title": "Nature morte",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "work",
+    "year": null,
+    "type": "Peinture",
+    "medium": "Peinture sur toile",
+    "sheets": 1,
+    "inventory": "FCM T.001",
+    "color": true,
+    "description": "Nature morte signée Manrique : bouteille rayée, feuilles, fruits et pastèque sur fond bleu sombre. Œuvre non identifiée : titre descriptif, date et technique non documentées. Photographie : Vladimir Kysela.",
+    "location": "Lanzarote",
+    "images": ["/images/archive/nature-morte.jpg"],
+    "similar": [
+      "peinture-diptyque",
+      "peinture-matiere",
+      "peinture-noir-et-or",
+      "jameos-del-agua"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "peinture-matiere",
+    "title": "Peinture, matière",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "work",
+    "year": null,
+    "type": "Peinture",
+    "medium": "Peinture et matière sur toile",
+    "sheets": 1,
+    "inventory": "FCM T.002",
+    "color": true,
+    "description": "Tableau signé Manrique : matière épaisse ocre et sable sur fond noir et orangé. Œuvre non identifiée : titre descriptif, date et technique non documentées. Photographie : Vladimir Kysela.",
+    "location": "Lanzarote",
+    "images": ["/images/archive/peinture-01.jpg"],
+    "similar": [
+      "nature-morte",
+      "peinture-diptyque",
+      "peinture-noir-et-or",
+      "jameos-del-agua"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "peinture-diptyque",
+    "title": "Peinture, diptyque",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "work",
+    "year": null,
+    "type": "Peinture",
+    "medium": "Peinture sur toile, deux panneaux",
+    "sheets": 1,
+    "inventory": "FCM T.003",
+    "color": true,
+    "description": "Diptyque de César Manrique : formes blanches sur rouge sombre, noir et vert. Œuvre non identifiée : titre descriptif, date et technique non documentées. Photographie : Vladimir Kysela.",
+    "location": "Lanzarote",
+    "images": ["/images/archive/peinture-02.jpg"],
+    "similar": [
+      "nature-morte",
+      "peinture-matiere",
+      "peinture-noir-et-or",
+      "jameos-del-agua"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "peinture-noir-et-or",
+    "title": "Peinture, noir et or",
+    "artist": "César Manrique",
+    "artistSlug": "cesar-manrique",
+    "category": "work",
+    "year": null,
+    "type": "Peinture",
+    "medium": "Peinture et reliefs sur toile",
+    "sheets": 1,
+    "inventory": "FCM T.004",
+    "color": true,
+    "description": "Tableau signé Manrique : reliefs dorés sur fond noir. Œuvre non identifiée : titre descriptif, date et technique non documentées. Photographie : Vladimir Kysela.",
+    "location": "Lanzarote",
+    "images": ["/images/archive/peinture-03.jpg"],
+    "similar": [
+      "nature-morte",
+      "peinture-diptyque",
+      "peinture-matiere",
+      "jameos-del-agua"
+    ]
+  }
+]

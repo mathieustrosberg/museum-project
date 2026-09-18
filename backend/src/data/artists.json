@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "slug": "cesar-manrique",
+    "name": "César Manrique",
+    "born": "1919, Arrecife",
+    "based": "Lanzarote",
+    "practice": "Peintre, sculpteur et architecte de l'espace. Fait de Lanzarote, ses volcans et sa lave, la matière de ses tableaux et de ses lieux publics.",
+    "works": [
+      "taro-de-tahiche",
+      "jameos-del-agua",
+      "jardin-de-cactus",
+      "casa-museo-del-campesino",
+      "lago-martianez",
+      "lagomar",
+      "nature-morte",
+      "peinture-matiere",
+      "peinture-diptyque",
+      "peinture-noir-et-or"
+    ]
+  }
+]

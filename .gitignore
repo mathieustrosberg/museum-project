@@ -1,0 +1,7 @@
+# système
+.DS_Store
+
+# outils locaux, jamais dans le dépôt
+.claude/
+AGENTS.md
+CLAUDE.md

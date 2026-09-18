@@ -1,0 +1,61 @@
+/* ==========================================================================
+   Blocs image
+   ========================================================================== */
+
+/* Cadre gris avec image en cover (portrait tramé, images about/contact) */
+.media {
+  position: relative;
+  overflow: hidden;
+  background: var(--color-surface);
+}
+
+.media img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Tableaux : l'image entière dans son cadre, sur le fond gris, jamais recadrée */
+.media img.is-contained,
+.card__media img.is-contained {
+  object-fit: contain;
+  transform: none;
+}
+
+/* Image d'aperçu superposée (swap au survol des lignes de projets) */
+.media__preview {
+  opacity: 0;
+  transform: scale(1.06);
+  transition:
+    opacity 0.35s ease,
+    transform 0.9s var(--ease-out);
+  will-change: transform, opacity;
+}
+
+.media.is-preview .media__preview {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Le portrait s'efface pendant l'aperçu */
+.media__img {
+  transition: opacity 0.35s ease;
+}
+
+.media.is-preview .media__img {
+  opacity: 0;
+}
+
+/* Toutes les photographies passent par le même filtre (token --image-filter) */
+main img,
+.preloader img {
+  filter: var(--image-filter);
+}
+
+/* Œuvres et photographies d'auteur : pas de filtre (option `color` de SiteImage) */
+main img.is-color,
+.preloader img.is-color {
+  filter: none;
+}
